@@ -1,0 +1,6 @@
+dist/*
+!dist/index.html
+node_modules/
+yarn-error.log
+trades/*.json
+.env
